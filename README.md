@@ -1,10 +1,11 @@
 
 # 🌆 GeoSP
 <div align="left">
-
   <img src="https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white" alt="Ionic">
   <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
   <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white" alt="Google Gemini">
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" alt="iOS">
 </div>
 
 ## 📱 About the project
@@ -48,11 +49,10 @@ To install and run GeoSP on your device or set up the development environment, y
 - [**Android Studio**](https://developer.android.com/studio): IDE used to generate the `.apk` file for Android devices.
 - [**Xcode**](https://developer.apple.com/xcode/): IDE required to generate the `.ipa` file for iOS devices.
 - [**CocoaPods**](https://cocoapods.org/): Essential tool for managing dependencies in iOS development. Install with:  
-=======
 - [**Android Studio**](https://developer.android.com/studio): IDE utilizada para gerar o arquivo `.apk` para dispositivos Android.
 - [**Xcode**](https://developer.apple.com/xcode/): IDE necessária para gerar o arquivo `.ipa` para dispositivos iOS.
 - [**CocoaPods**](https://cocoapods.org/): Ferramenta essencial para gerenciar dependências no desenvolvimento iOS. Instale com:  
->>>>>>> 24edd614c9d3016bf97181d16b2577d5f566407c
+>>>>>>> 
   ```bash
   sudo gem install cocoapods
   ```
