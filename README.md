@@ -45,14 +45,12 @@ The GeoSP project, developed with Ionic and Angular, generates several files. To
 ## 📋 Requirements
 To install and run GeoSP on your device or set up the development environment, you need the following requirements:
 
-<<<<<<< HEAD
 - [**Android Studio**](https://developer.android.com/studio): IDE used to generate the `.apk` file for Android devices.
 - [**Xcode**](https://developer.apple.com/xcode/): IDE required to generate the `.ipa` file for iOS devices.
 - [**CocoaPods**](https://cocoapods.org/): Essential tool for managing dependencies in iOS development. Install with:  
 - [**Android Studio**](https://developer.android.com/studio): IDE utilizada para gerar o arquivo `.apk` para dispositivos Android.
 - [**Xcode**](https://developer.apple.com/xcode/): IDE necessária para gerar o arquivo `.ipa` para dispositivos iOS.
 - [**CocoaPods**](https://cocoapods.org/): Ferramenta essencial para gerenciar dependências no desenvolvimento iOS. Instale com:  
->>>>>>> 
   ```bash
   sudo gem install cocoapods
   ```
@@ -62,7 +60,6 @@ To install and run GeoSP on your device or set up the development environment, y
   ```bash
   npm install -g @ionic/cli
   ```
-
 ---
 
 ## 📦 Installation Mode
