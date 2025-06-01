@@ -70,7 +70,7 @@ Follow the steps below to install GeoSP on your Android device:
 1. **Download the APK**: Go to the releases section on GitHub and download the `geosp.apk` file.  
    <a href="https://github.com/joaopedro08-dev/GeoSP/releases/tag/v1.0">Click here</a>
 
->**Tip**: Make sure your device is connected to the internet to make the most of features like Google Maps navigation and chatbot interaction.
+>💡**Tip**: Make sure your device is connected to the internet to make the most of features like Google Maps navigation and chatbot interaction.
 
 ---
 
