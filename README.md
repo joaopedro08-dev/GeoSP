@@ -18,6 +18,6 @@ O aplicativo é organizado em cinco abas práticas:
 5. **Chatbot**: Interaja com um chatbot simples, potencializado pela IA do Gemini, para tirar dúvidas e receber dicas.
 
 ## Tecnologias utilizadas
-- **Linguagens**: HTML, CSS, TypeScript
+- **Linguagens**: HTML, CSS (Sass), TypeScript
 - **Frameworks**: Ionic, Angular
 - **Outras ferramentas**: API do Gemini, Google Maps, Google Fonts 
