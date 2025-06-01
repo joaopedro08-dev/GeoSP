@@ -41,9 +41,6 @@ O projeto GeoSP, desenvolvido com Ionic e Angular, gera diversos arquivos. Para 
 ## Pré-requisitos
 Para instalar e executar o GeoSP no seu dispositivo ou configurar o ambiente de desenvolvimento, você precisa dos seguintes requisitos:
 
-## Pré-requisitos
-Para instalar e executar o GeoSP no seu dispositivo ou configurar o ambiente de desenvolvimento, você precisa dos seguintes requisitos:
-
 - [**Android Studio**](https://developer.android.com/studio): IDE utilizada para gerar o arquivo `.apk` para dispositivos Android.
 - [**Xcode**](https://developer.apple.com/xcode/): IDE necessária para gerar o arquivo `.ipa` para dispositivos iOS.
 - [**CocoaPods**](https://cocoapods.org/): Ferramenta essencial para gerenciar dependências no desenvolvimento iOS. Instale com:  
