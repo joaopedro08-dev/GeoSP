@@ -12,7 +12,7 @@ export class GeminiService {
   constructor() {
     const API_KEY = environment.apiKey; 
     this.genAI = new GoogleGenerativeAI(API_KEY);
-    this.model = this.genAI.getGenerativeModel({ model: "gemini-1.5-flash" }); 
+    this.model = this.genAI.getGenerativeModel({ model: "MODEL_GEMINI" }); 
   }
 
   async gerarResposta(mensagem: string): Promise<string> {
