@@ -1,0 +1,28 @@
+<ion-header [translucent]="true">
+  <ion-toolbar color="white">
+    <ion-img class="logo-img" src="../../assets/home/logo-img.png"></ion-img>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content [fullscreen]="true">
+  <div class="chat-container">
+    <div class="header-chat">
+      <ion-title>ChatBot - GeoSP</ion-title>
+      <ion-icon name="logo-snapchat"></ion-icon>
+    </div>
+    <div class="messages">
+      <div *ngFor="let mensagem of mensagens" class="message">
+        <div [ngClass]="mensagem.eBot ? 'bot-message' : 'user-message'">
+          {{ mensagem.texto }}
+        </div>
+      </div>
+    </div>
+
+    <ion-footer>
+      <ion-toolbar>
+        <ion-input [(ngModel)]="usuarioEntrada" placeholder="Mensagem..." (keydown.enter)="enviarMensagem()" clear-input></ion-input>
+        <ion-button slot="end" (click)="enviarMensagem()">Enviar</ion-button>
+      </ion-toolbar>
+    </ion-footer>
+  </div>
+</ion-content>
